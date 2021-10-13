@@ -14,4 +14,6 @@ cin>>tshirt_status;
 cout<<"YES YOU GOT IT !"
 
 # hacktober21
+
 Alright we're here for our third year this time
+today is 13th of october 2021, wednesday, and it's awesome
